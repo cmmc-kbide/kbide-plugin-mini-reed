@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-mini-reed",
+  "title": "mini-reed",
+  "keywords": "mini-reed, esp32, esp8266, arduino",
+  "description": "mini-reed plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-mini-reed/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-mini-reed/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
