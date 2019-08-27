@@ -1,11 +1,11 @@
 {
   "name" : "kbide-plugin-mini-reed",
-  "title": "mini-reed",
+  "title": "KY-021 MINI REED SWITCH MODULE",
   "keywords": "mini-reed, esp32, esp8266, arduino",
   "description": "mini-reed plugin for KB-IDE",
   "category":"",
   "git": "https://github.com/cmmc-kbide/kbide-plugin-mini-reed/",
-  "author": "cmmakerclub",
+  "author": "Prawared",
   "email": "",
   "url": "https://github.com/cmmc-kbide/kbide-plugin-mini-reed/",
   "version": "1.0.0",
